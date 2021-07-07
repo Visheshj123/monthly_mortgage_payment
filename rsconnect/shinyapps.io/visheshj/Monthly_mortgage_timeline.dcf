@@ -1,0 +1,13 @@
+name: monthly_mortgage_timeline
+title: monthly_mortgage_timeline
+username:
+account: visheshj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4360481
+bundleId: 4794660
+url: https://visheshj.shinyapps.io/monthly_mortgage_timeline/
+when: 1625641085.92672
+lastSyncTime: 1625641085.92674
+asMultiple: FALSE
+asStatic: FALSE

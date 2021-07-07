@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1625626229241.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8CAEBE28",
+    "lastKnownWriteTime" : 140252157050880,
+    "last_content_update" : 1625626229241,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "c9b2879de1a84067b27d613c4eb7c303",
+        "name" : "states",
+        "title" : "states"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

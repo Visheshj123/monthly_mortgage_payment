@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1625624970363.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1455341036",
+    "id" : "17E91194",
+    "lastKnownWriteTime" : 1625641064,
+    "last_content_update" : 1625641064774,
+    "path" : "~/Downloads/housing_prices_US/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "67,50",
+        "scrollLine" : "60"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

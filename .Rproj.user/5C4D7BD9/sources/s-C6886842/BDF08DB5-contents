@@ -1,0 +1,14 @@
+my_data_copy <- my_data
+states_copy <- states
+states_copy <- states_copy[-c(17),]
+vec <- c(states_copy@data[["NAME"]])
+my_data$Value[1]
+my_data_copy[1:51,] <- my_data[match(vec, my_data$Value), ]  
+a <-3
+test <- function(){
+  a <<- 5
+}
+test()
+
+test <- my_data %>% arrange(Value) %>% tail(n=3)
+test
